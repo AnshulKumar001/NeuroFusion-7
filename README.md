@@ -99,7 +99,7 @@ Dense (Softmax – 7 classes)
 
 | Metric | Accuracy |
 |------|----------|
-| Training Accuracy | **96.02%** |
+| Training Accuracy | **93.02%** |
 | Testing Accuracy | **92.75%** |
 
 ✔ High accuracy  
