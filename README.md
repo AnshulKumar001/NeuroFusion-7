@@ -7,7 +7,6 @@ This project builds a **multi-class medical image classification system** using 
 ## 🚀 Project Overview
 
 The model predicts **7 brain disease categories**:
-
 - MildDemented  
 - ModerateDemented  
 - VeryMildDemented  
@@ -39,14 +38,14 @@ Key ideas used:
 
 After extracting `final.zip`, the dataset directory should look like this:
 
-final/
-├── MildDemented/
-├── ModerateDemented/
-├── VeryMildDemented/
-├── NonDemented/
-├── glioma/
-├── meningioma/
-└── pituitary/
+- final/
+- ├── MildDemented/
+- ├── ModerateDemented/
+- ├── VeryMildDemented/
+- ├── NonDemented/
+- ├── glioma/
+- ├── meningioma/
+- └── pituitary/
 
 
 Each folder contains brain MRI images in `.jpg / .jpeg / .png` format.
