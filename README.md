@@ -1,4 +1,4 @@
-# 🧠 NeuroFusion-7: Neural Network–Based Data Fusion
+# 🧠 NeuroFusion-7: Neural Network–Based Data Fusion (New Research)
 
 This project builds a **multi-class medical image classification system** using deep learning. It classifies brain MRI images into **dementia stages and brain tumor types** using **EfficientNetB0 + SMOTE + Neural Network**.
 
